@@ -222,7 +222,7 @@ button {
   margin-left: auto;
   margin-bottom: 35px;
   width: 1440px;
-  height: 350px;
+  height: 462px;
   background: url("../img/header-bg.jpeg");
   background-size: cover;
   background-position: center bottom;
@@ -242,14 +242,16 @@ button {
   color: white;
   font-family: "Montserrat", "Avenir Next", Helvetica, Arial, sans-serif;
   text-shadow: 1px 1px 4px #000;
-  background: rgba(0, 0, 0, 0.4);
+  background: #1a1a1a;
 }
 .header__content:hover {
   text-decoration: none;
 }
 
 .header__title {
-  font-size: 5.4em;
+  font-size: 64px;
+  font-family: Montserrat;
+  font-weight: bold;
   margin: 0;
 }
 
