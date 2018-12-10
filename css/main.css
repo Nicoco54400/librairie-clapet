@@ -93,13 +93,13 @@ button {
 .container {
   margin: auto;
   padding: 0 15px;
-  width: 960px;
+  width: 1440px;
   max-width: 100%;
 }
 
 .text-container {
   margin: auto;
-  max-width: 960px;
+  max-width: 1440px;
 }
 
 .columns {
@@ -221,7 +221,7 @@ button {
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 35px;
-  width: 960px;
+  width: 1440px;
   height: 350px;
   background: url("../img/header-bg.jpeg");
   background-size: cover;
@@ -262,7 +262,7 @@ button {
 
 
 .header__nav {
-  background-color: rgba(0, 0, 0, 0.85);
+  background-color: #1a1a1a;
 }
 
 .nav-main__item {
