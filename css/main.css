@@ -486,6 +486,8 @@ button {
 */
 .page-single {
   text-align: justify;
+  width: 1200px;
+  max-width: 100%;
 }
 
 .page-single__header {
@@ -494,15 +496,16 @@ button {
 
 .page-single__title {
   margin: 0;
-  font-size: 5.6em;
+  font-family: Montserrat;
+  font-size: 56px;
   line-height: 1.4;
-  font-weight: 500;
+  font-weight: bold;
 }
 
 .page-single__subtitle {
   margin: 0;
-  font-size: 3.2em;
-  font-weight: 200;
+  font-family: Montserrat;
+  font-size: 32px;
 }
 
 
