@@ -281,11 +281,14 @@ button {
 
 .header__nav {
   background-color: #1a1a1a;
+  display:flex;
+  justify-content: center;
 }
 
 .nav-main__item {
   display: inline-block;
-  margin-left: 200px;
+  margin-left: 220px;
+  text-align: center;
   font-family: 'Work Sans';
   font-size: 18px;
   color: #ffffff;
@@ -436,9 +439,10 @@ button {
 
 .news--main {
   display: inline-block;
+  max-width: 1440px;
   width: 100%;
   height: 232px;
-  padding-bottom: 35px;
+  padding-bottom: 55px;
   border-bottom: 1px solid #b0b0c5;
 }
 .news--main .news__link {
@@ -448,7 +452,7 @@ button {
 .news--main .news__thumbnail {
   margin-bottom: 0;
   margin-right: 40px;
-  max-width: 372px;
+  max-width: 320px;
   width: 100%;
 }
 
