@@ -385,6 +385,8 @@ button {
 .news__thumbnail {
   margin-bottom: 10px;
   filter: grayscale(0);
+  width: 372px;
+  height: 232px;
 }
 
 .news__image {
@@ -422,6 +424,9 @@ button {
 }
 
 .news--main {
+  display: inline-block;
+  width: 1197px;
+  height: 232px;
   padding-bottom: 35px;
   border-bottom: 1px solid #b0b0c5;
 }
