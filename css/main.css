@@ -307,7 +307,8 @@ button {
 
 
 .croix-separator {
-  margin-left: 600px;
+  display: block;
+  margin: 50px auto;
 }
 
 
@@ -316,12 +317,13 @@ button {
 */
 
 .honey-pot-list {
-  text-align: center;
+  display:flex;
+  justify-content: center;
 }
 
 .honey-pot {
   display: inline-block;
-  margin: 0 90px 35px 90px;
+  margin: auto;
   text-align: center;
 }
 
