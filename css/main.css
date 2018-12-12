@@ -539,3 +539,19 @@ button {
   background-position: center bottom;
   overflow: hidden;
 }
+
+.bloc-citation {
+
+}
+
+.citation {
+  font-family: Montserrat;
+  font-size: 24px;
+  color: #e8a27d;
+}
+
+.auteur-citation{
+  font-family: 'Work Sans';
+  font-size: 16px;
+  text-align: right;
+}
