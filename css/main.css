@@ -349,13 +349,15 @@ button {
 
 .honey-pot__title {
   margin: 0;
-  font-size: 2em;
+  font-size: 26px;
+  font-family: Montserrat;
   font-weight: bold;
 }
 
 .honey-pot__subtitle {
   margin: 0;
-  font-size: 1.6em;
+  font-size: 22px;
+  font-family: Montserrat;
   font-weight: 200;
 }
 
@@ -492,4 +494,7 @@ button {
 .index-title {
   text-align: center;
   margin-bottom: 35px;
+  font-family: Montserrat;
+  font-size: 64px;
+  f
 }
