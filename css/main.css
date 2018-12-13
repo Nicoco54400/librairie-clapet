@@ -484,12 +484,21 @@ button {
   justify-content: center;
 }
 
+.index-grille-3-cases {
+  grid-column: span 3;
+}
+
 .index-grille-2-cases {
   grid-column: span 2;
 }
 
 .index-grille-1-case {
   grid-column: span 1;
+}
+
+.trait-index {
+  color: #d9d9d9;
+  height: 1px;
 }
 
 .news-grille {
