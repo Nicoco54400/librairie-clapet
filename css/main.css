@@ -480,7 +480,8 @@ button {
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: auto;
   margin: 35px auto;
-  width: 1440px;
+  max-width: 1440px;
+  width: 100%;
   justify-content: center;
 }
 
@@ -507,7 +508,8 @@ button {
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: auto;
   margin: 35px auto;
-  width: 1194px;
+  max-width: 1194px;
+  width: 100%;
   justify-content: center;
 }
 
