@@ -595,3 +595,8 @@ button {
   text-align: justify;
   color: #1a1a1a;
 }
+
+.grille-1{
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
