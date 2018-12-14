@@ -647,3 +647,22 @@ button {
   font-family: Montserrat;
   font-size: 56px;
 }
+
+.dedicace-grille {
+  display: grid;
+  grid-gap: 26px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: auto;
+  margin: 35px auto;
+  max-width: 1194px;
+  width: 100%;
+  justify-content: center;
+}
+
+.dedicace-grille-1-case {
+  grid-column: span 1;
+}
+
+.dedicace-grille-3-cases {
+  grid-column: span 3;
+}
