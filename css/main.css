@@ -498,8 +498,7 @@ button {
 }
 
 .trait-index {
-  color: #d8d8d8;
-  height: 1px;
+  border-bottom: 1px solid #d8d8d8;
 }
 
 .news-grille {
@@ -547,10 +546,11 @@ button {
   font-size: 56px;
   line-height: 1.4;
   font-weight: bold;
+  text-align: justify;
 }
 
 .page-single__subtitle {
-  margin: 0;
+  margin: 10px 0 0 0;
   font-family: Montserrat;
   font-size: 32px;
 }
@@ -643,3 +643,7 @@ button {
   color: #1a1a1a;
 }
 
+.chapo-dedicace-titre {
+  font-family: Montserrat;
+  font-size: 56px;
+}
