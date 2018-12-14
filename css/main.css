@@ -620,7 +620,7 @@ button {
   text-align: justify;
 }
 
-.auteur-citation{
+.auteur-citation {
   font-family: 'Work Sans';
   font-size: 16px;
   text-align: right;
@@ -666,3 +666,28 @@ button {
 .dedicace-grille-3-cases {
   grid-column: span 3;
 }
+
+.chapo-bd {
+  max-width: 960px;
+  width:100%;
+  height: 116px;
+  font-family: Montserrat;
+  font-size: 25px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: justify;
+  color: #1a1a1a;
+}
+
+.titre-bd {
+  font-family: Montserrat;
+  font-size: 42px;
+  text-align: justify;
+
+.article-bd {
+  font-family: 'Work Sans';
+  font-size: 20px;
+  text-align: justify;  
